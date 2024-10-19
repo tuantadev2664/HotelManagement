@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="Login.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="P_BookingReservation.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="P_BookingDetail.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="P_CustomerManagement.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="P_CustomerProfile.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="P_ReservationHistory.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="P_ReservationHistoryAdmin.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="P_RoomManagement.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="P_Static.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="WindowAdmin.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="WindowChangePassword.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="WindowCreateBooking.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="WindowCreateRoom.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="WindowCustomer.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="WindowUpdateBookingDetail.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="WindowUpdateProfile.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="WindowUpdateRoom.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="Login.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="P_BookingReservation.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="P_BookingDetail.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="P_CustomerManagement.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="P_CustomerProfile.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="P_ReservationHistory.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="P_ReservationHistoryAdmin.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="P_RoomManagement.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="P_Static.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="WindowAdmin.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="WindowChangePassword.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="WindowCreateBooking.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="WindowCreateRoom.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="WindowCustomer.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="WindowUpdateBookingDetail.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="WindowUpdateProfile.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="WindowUpdateRoom.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>

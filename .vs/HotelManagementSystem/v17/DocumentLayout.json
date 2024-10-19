@@ -1,0 +1,1170 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\materials-fpt-cn5\\PRN212\\Project\\HotelManagementSystem_DE180316_TruongAnhTuan_PRN212\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{74B6B8B1-CAC2-4E11-930A-D944A63ABB85}|HMSApp\\HMSApp.csproj|d:\\materials-fpt-cn5\\prn212\\project\\hotelmanagementsystem_de180316_truonganhtuan_prn212\\hmsapp\\p_static.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74B6B8B1-CAC2-4E11-930A-D944A63ABB85}|HMSApp\\HMSApp.csproj|solutionrelative:hmsapp\\p_static.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74B6B8B1-CAC2-4E11-930A-D944A63ABB85}|HMSApp\\HMSApp.csproj|d:\\materials-fpt-cn5\\prn212\\project\\hotelmanagementsystem_de180316_truonganhtuan_prn212\\hmsapp\\p_static.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{74B6B8B1-CAC2-4E11-930A-D944A63ABB85}|HMSApp\\HMSApp.csproj|solutionrelative:hmsapp\\p_static.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74B6B8B1-CAC2-4E11-930A-D944A63ABB85}|HMSApp\\HMSApp.csproj|d:\\materials-fpt-cn5\\prn212\\project\\hotelmanagementsystem_de180316_truonganhtuan_prn212\\hmsapp\\p_bookingdetail.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{74B6B8B1-CAC2-4E11-930A-D944A63ABB85}|HMSApp\\HMSApp.csproj|solutionrelative:hmsapp\\p_bookingdetail.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74B6B8B1-CAC2-4E11-930A-D944A63ABB85}|HMSApp\\HMSApp.csproj|d:\\materials-fpt-cn5\\prn212\\project\\hotelmanagementsystem_de180316_truonganhtuan_prn212\\hmsapp\\p_bookingdetail.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74B6B8B1-CAC2-4E11-930A-D944A63ABB85}|HMSApp\\HMSApp.csproj|solutionrelative:hmsapp\\p_bookingdetail.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74B6B8B1-CAC2-4E11-930A-D944A63ABB85}|HMSApp\\HMSApp.csproj|d:\\materials-fpt-cn5\\prn212\\project\\hotelmanagementsystem_de180316_truonganhtuan_prn212\\hmsapp\\p_reservationhistory.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74B6B8B1-CAC2-4E11-930A-D944A63ABB85}|HMSApp\\HMSApp.csproj|solutionrelative:hmsapp\\p_reservationhistory.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74B6B8B1-CAC2-4E11-930A-D944A63ABB85}|HMSApp\\HMSApp.csproj|d:\\materials-fpt-cn5\\prn212\\project\\hotelmanagementsystem_de180316_truonganhtuan_prn212\\hmsapp\\p_roommanagement.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74B6B8B1-CAC2-4E11-930A-D944A63ABB85}|HMSApp\\HMSApp.csproj|solutionrelative:hmsapp\\p_roommanagement.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74B6B8B1-CAC2-4E11-930A-D944A63ABB85}|HMSApp\\HMSApp.csproj|d:\\materials-fpt-cn5\\prn212\\project\\hotelmanagementsystem_de180316_truonganhtuan_prn212\\hmsapp\\windowupdateroom.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74B6B8B1-CAC2-4E11-930A-D944A63ABB85}|HMSApp\\HMSApp.csproj|solutionrelative:hmsapp\\windowupdateroom.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ED4EF07-0EEE-49B3-9E57-3B49B627C851}|DataAccessObjects\\DataAccess.csproj|d:\\materials-fpt-cn5\\prn212\\project\\hotelmanagementsystem_de180316_truonganhtuan_prn212\\dataaccessobjects\\dao\\roominformationdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ED4EF07-0EEE-49B3-9E57-3B49B627C851}|DataAccessObjects\\DataAccess.csproj|solutionrelative:dataaccessobjects\\dao\\roominformationdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ED4EF07-0EEE-49B3-9E57-3B49B627C851}|DataAccessObjects\\DataAccess.csproj|d:\\materials-fpt-cn5\\prn212\\project\\hotelmanagementsystem_de180316_truonganhtuan_prn212\\dataaccessobjects\\dao\\bookingreservationdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ED4EF07-0EEE-49B3-9E57-3B49B627C851}|DataAccessObjects\\DataAccess.csproj|solutionrelative:dataaccessobjects\\dao\\bookingreservationdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ED4EF07-0EEE-49B3-9E57-3B49B627C851}|DataAccessObjects\\DataAccess.csproj|d:\\materials-fpt-cn5\\prn212\\project\\hotelmanagementsystem_de180316_truonganhtuan_prn212\\dataaccessobjects\\repository\\roominformationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ED4EF07-0EEE-49B3-9E57-3B49B627C851}|DataAccessObjects\\DataAccess.csproj|solutionrelative:dataaccessobjects\\repository\\roominformationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ED4EF07-0EEE-49B3-9E57-3B49B627C851}|DataAccessObjects\\DataAccess.csproj|d:\\materials-fpt-cn5\\prn212\\project\\hotelmanagementsystem_de180316_truonganhtuan_prn212\\dataaccessobjects\\repository\\bookingreservationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ED4EF07-0EEE-49B3-9E57-3B49B627C851}|DataAccessObjects\\DataAccess.csproj|solutionrelative:dataaccessobjects\\repository\\bookingreservationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ED4EF07-0EEE-49B3-9E57-3B49B627C851}|DataAccessObjects\\DataAccess.csproj|d:\\materials-fpt-cn5\\prn212\\project\\hotelmanagementsystem_de180316_truonganhtuan_prn212\\dataaccessobjects\\repository\\ibookingreservationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ED4EF07-0EEE-49B3-9E57-3B49B627C851}|DataAccessObjects\\DataAccess.csproj|solutionrelative:dataaccessobjects\\repository\\ibookingreservationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74B6B8B1-CAC2-4E11-930A-D944A63ABB85}|HMSApp\\HMSApp.csproj|d:\\materials-fpt-cn5\\prn212\\project\\hotelmanagementsystem_de180316_truonganhtuan_prn212\\hmsapp\\p_reservationhistoryadmin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74B6B8B1-CAC2-4E11-930A-D944A63ABB85}|HMSApp\\HMSApp.csproj|solutionrelative:hmsapp\\p_reservationhistoryadmin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ED4EF07-0EEE-49B3-9E57-3B49B627C851}|DataAccessObjects\\DataAccess.csproj|d:\\materials-fpt-cn5\\prn212\\project\\hotelmanagementsystem_de180316_truonganhtuan_prn212\\dataaccessobjects\\repository\\iroominformationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ED4EF07-0EEE-49B3-9E57-3B49B627C851}|DataAccessObjects\\DataAccess.csproj|solutionrelative:dataaccessobjects\\repository\\iroominformationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ED4EF07-0EEE-49B3-9E57-3B49B627C851}|DataAccessObjects\\DataAccess.csproj|d:\\materials-fpt-cn5\\prn212\\project\\hotelmanagementsystem_de180316_truonganhtuan_prn212\\dataaccessobjects\\dao\\bookingdetaildao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ED4EF07-0EEE-49B3-9E57-3B49B627C851}|DataAccessObjects\\DataAccess.csproj|solutionrelative:dataaccessobjects\\dao\\bookingdetaildao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F122C832-1DFC-4DE3-A84C-24AC5D969EA2}|BusinessObjects\\BusinessObjects.csproj|d:\\materials-fpt-cn5\\prn212\\project\\hotelmanagementsystem_de180316_truonganhtuan_prn212\\businessobjects\\roominformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F122C832-1DFC-4DE3-A84C-24AC5D969EA2}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\roominformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ED4EF07-0EEE-49B3-9E57-3B49B627C851}|DataAccessObjects\\DataAccess.csproj|d:\\materials-fpt-cn5\\prn212\\project\\hotelmanagementsystem_de180316_truonganhtuan_prn212\\dataaccessobjects\\repository\\bookingdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ED4EF07-0EEE-49B3-9E57-3B49B627C851}|DataAccessObjects\\DataAccess.csproj|solutionrelative:dataaccessobjects\\repository\\bookingdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ED4EF07-0EEE-49B3-9E57-3B49B627C851}|DataAccessObjects\\DataAccess.csproj|d:\\materials-fpt-cn5\\prn212\\project\\hotelmanagementsystem_de180316_truonganhtuan_prn212\\dataaccessobjects\\repository\\ibookingdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ED4EF07-0EEE-49B3-9E57-3B49B627C851}|DataAccessObjects\\DataAccess.csproj|solutionrelative:dataaccessobjects\\repository\\ibookingdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74B6B8B1-CAC2-4E11-930A-D944A63ABB85}|HMSApp\\HMSApp.csproj|d:\\materials-fpt-cn5\\prn212\\project\\hotelmanagementsystem_de180316_truonganhtuan_prn212\\hmsapp\\p_bookingreservation.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74B6B8B1-CAC2-4E11-930A-D944A63ABB85}|HMSApp\\HMSApp.csproj|solutionrelative:hmsapp\\p_bookingreservation.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74B6B8B1-CAC2-4E11-930A-D944A63ABB85}|HMSApp\\HMSApp.csproj|d:\\materials-fpt-cn5\\prn212\\project\\hotelmanagementsystem_de180316_truonganhtuan_prn212\\hmsapp\\windowcreatebooking.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74B6B8B1-CAC2-4E11-930A-D944A63ABB85}|HMSApp\\HMSApp.csproj|solutionrelative:hmsapp\\windowcreatebooking.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74B6B8B1-CAC2-4E11-930A-D944A63ABB85}|HMSApp\\HMSApp.csproj|d:\\materials-fpt-cn5\\prn212\\project\\hotelmanagementsystem_de180316_truonganhtuan_prn212\\hmsapp\\windowcustomer.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74B6B8B1-CAC2-4E11-930A-D944A63ABB85}|HMSApp\\HMSApp.csproj|solutionrelative:hmsapp\\windowcustomer.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74B6B8B1-CAC2-4E11-930A-D944A63ABB85}|HMSApp\\HMSApp.csproj|d:\\materials-fpt-cn5\\prn212\\project\\hotelmanagementsystem_de180316_truonganhtuan_prn212\\hmsapp\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74B6B8B1-CAC2-4E11-930A-D944A63ABB85}|HMSApp\\HMSApp.csproj|solutionrelative:hmsapp\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74B6B8B1-CAC2-4E11-930A-D944A63ABB85}|HMSApp\\HMSApp.csproj|d:\\materials-fpt-cn5\\prn212\\project\\hotelmanagementsystem_de180316_truonganhtuan_prn212\\hmsapp\\p_bookingreservation.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{74B6B8B1-CAC2-4E11-930A-D944A63ABB85}|HMSApp\\HMSApp.csproj|solutionrelative:hmsapp\\p_bookingreservation.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74B6B8B1-CAC2-4E11-930A-D944A63ABB85}|HMSApp\\HMSApp.csproj|d:\\materials-fpt-cn5\\prn212\\project\\hotelmanagementsystem_de180316_truonganhtuan_prn212\\hmsapp\\navigationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74B6B8B1-CAC2-4E11-930A-D944A63ABB85}|HMSApp\\HMSApp.csproj|solutionrelative:hmsapp\\navigationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74B6B8B1-CAC2-4E11-930A-D944A63ABB85}|HMSApp\\HMSApp.csproj|d:\\materials-fpt-cn5\\prn212\\project\\hotelmanagementsystem_de180316_truonganhtuan_prn212\\hmsapp\\windowadmin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74B6B8B1-CAC2-4E11-930A-D944A63ABB85}|HMSApp\\HMSApp.csproj|solutionrelative:hmsapp\\windowadmin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ED4EF07-0EEE-49B3-9E57-3B49B627C851}|DataAccessObjects\\DataAccess.csproj|d:\\materials-fpt-cn5\\prn212\\project\\hotelmanagementsystem_de180316_truonganhtuan_prn212\\dataaccessobjects\\dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8ED4EF07-0EEE-49B3-9E57-3B49B627C851}|DataAccessObjects\\DataAccess.csproj|solutionrelative:dataaccessobjects\\dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74B6B8B1-CAC2-4E11-930A-D944A63ABB85}|HMSApp\\HMSApp.csproj|d:\\materials-fpt-cn5\\prn212\\project\\hotelmanagementsystem_de180316_truonganhtuan_prn212\\hmsapp\\p_customerprofile.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{74B6B8B1-CAC2-4E11-930A-D944A63ABB85}|HMSApp\\HMSApp.csproj|solutionrelative:hmsapp\\p_customerprofile.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74B6B8B1-CAC2-4E11-930A-D944A63ABB85}|HMSApp\\HMSApp.csproj|d:\\materials-fpt-cn5\\prn212\\project\\hotelmanagementsystem_de180316_truonganhtuan_prn212\\hmsapp\\p_customermanagement.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74B6B8B1-CAC2-4E11-930A-D944A63ABB85}|HMSApp\\HMSApp.csproj|solutionrelative:hmsapp\\p_customermanagement.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74B6B8B1-CAC2-4E11-930A-D944A63ABB85}|HMSApp\\HMSApp.csproj|d:\\materials-fpt-cn5\\prn212\\project\\hotelmanagementsystem_de180316_truonganhtuan_prn212\\hmsapp\\p_customermanagement.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{74B6B8B1-CAC2-4E11-930A-D944A63ABB85}|HMSApp\\HMSApp.csproj|solutionrelative:hmsapp\\p_customermanagement.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74B6B8B1-CAC2-4E11-930A-D944A63ABB85}|HMSApp\\HMSApp.csproj|d:\\materials-fpt-cn5\\prn212\\project\\hotelmanagementsystem_de180316_truonganhtuan_prn212\\hmsapp\\p_reservationhistory.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{74B6B8B1-CAC2-4E11-930A-D944A63ABB85}|HMSApp\\HMSApp.csproj|solutionrelative:hmsapp\\p_reservationhistory.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74B6B8B1-CAC2-4E11-930A-D944A63ABB85}|HMSApp\\HMSApp.csproj|d:\\materials-fpt-cn5\\prn212\\project\\hotelmanagementsystem_de180316_truonganhtuan_prn212\\hmsapp\\p_reservationhistoryadmin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{74B6B8B1-CAC2-4E11-930A-D944A63ABB85}|HMSApp\\HMSApp.csproj|solutionrelative:hmsapp\\p_reservationhistoryadmin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74B6B8B1-CAC2-4E11-930A-D944A63ABB85}|HMSApp\\HMSApp.csproj|d:\\materials-fpt-cn5\\prn212\\project\\hotelmanagementsystem_de180316_truonganhtuan_prn212\\hmsapp\\windowupdatebookingdetail.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74B6B8B1-CAC2-4E11-930A-D944A63ABB85}|HMSApp\\HMSApp.csproj|solutionrelative:hmsapp\\windowupdatebookingdetail.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74B6B8B1-CAC2-4E11-930A-D944A63ABB85}|HMSApp\\HMSApp.csproj|d:\\materials-fpt-cn5\\prn212\\project\\hotelmanagementsystem_de180316_truonganhtuan_prn212\\hmsapp\\windowcustomer.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{74B6B8B1-CAC2-4E11-930A-D944A63ABB85}|HMSApp\\HMSApp.csproj|solutionrelative:hmsapp\\windowcustomer.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74B6B8B1-CAC2-4E11-930A-D944A63ABB85}|HMSApp\\HMSApp.csproj|d:\\materials-fpt-cn5\\prn212\\project\\hotelmanagementsystem_de180316_truonganhtuan_prn212\\hmsapp\\windowadmin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{74B6B8B1-CAC2-4E11-930A-D944A63ABB85}|HMSApp\\HMSApp.csproj|solutionrelative:hmsapp\\windowadmin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74B6B8B1-CAC2-4E11-930A-D944A63ABB85}|HMSApp\\HMSApp.csproj|d:\\materials-fpt-cn5\\prn212\\project\\hotelmanagementsystem_de180316_truonganhtuan_prn212\\hmsapp\\p_customerprofile.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74B6B8B1-CAC2-4E11-930A-D944A63ABB85}|HMSApp\\HMSApp.csproj|solutionrelative:hmsapp\\p_customerprofile.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F122C832-1DFC-4DE3-A84C-24AC5D969EA2}|BusinessObjects\\BusinessObjects.csproj|d:\\materials-fpt-cn5\\prn212\\project\\hotelmanagementsystem_de180316_truonganhtuan_prn212\\businessobjects\\bookingreservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F122C832-1DFC-4DE3-A84C-24AC5D969EA2}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\bookingreservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F122C832-1DFC-4DE3-A84C-24AC5D969EA2}|BusinessObjects\\BusinessObjects.csproj|d:\\materials-fpt-cn5\\prn212\\project\\hotelmanagementsystem_de180316_truonganhtuan_prn212\\businessobjects\\bookingdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F122C832-1DFC-4DE3-A84C-24AC5D969EA2}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\bookingdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ED4EF07-0EEE-49B3-9E57-3B49B627C851}|DataAccessObjects\\DataAccess.csproj|d:\\materials-fpt-cn5\\prn212\\project\\hotelmanagementsystem_de180316_truonganhtuan_prn212\\dataaccessobjects\\dao\\customerdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ED4EF07-0EEE-49B3-9E57-3B49B627C851}|DataAccessObjects\\DataAccess.csproj|solutionrelative:dataaccessobjects\\dao\\customerdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F122C832-1DFC-4DE3-A84C-24AC5D969EA2}|BusinessObjects\\BusinessObjects.csproj|d:\\materials-fpt-cn5\\prn212\\project\\hotelmanagementsystem_de180316_truonganhtuan_prn212\\businessobjects\\customerbookingroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F122C832-1DFC-4DE3-A84C-24AC5D969EA2}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\customerbookingroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F122C832-1DFC-4DE3-A84C-24AC5D969EA2}|BusinessObjects\\BusinessObjects.csproj|d:\\materials-fpt-cn5\\prn212\\project\\hotelmanagementsystem_de180316_truonganhtuan_prn212\\businessobjects\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F122C832-1DFC-4DE3-A84C-24AC5D969EA2}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74B6B8B1-CAC2-4E11-930A-D944A63ABB85}|HMSApp\\HMSApp.csproj|d:\\materials-fpt-cn5\\prn212\\project\\hotelmanagementsystem_de180316_truonganhtuan_prn212\\hmsapp\\p_roommanagement.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{74B6B8B1-CAC2-4E11-930A-D944A63ABB85}|HMSApp\\HMSApp.csproj|solutionrelative:hmsapp\\p_roommanagement.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\FPTSHOP\\AppData\\Local\\Temp\\.vsdbgsrc\\87e8fa7b41b167ab42b8b5aeea9768abb45906dd3d4a5ea75c8820fcb97f3545\\ItemContainerGenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ED4EF07-0EEE-49B3-9E57-3B49B627C851}|DataAccessObjects\\DataAccess.csproj|d:\\materials-fpt-cn5\\prn212\\project\\hotelmanagementsystem_de180316_truonganhtuan_prn212\\dataaccessobjects\\dao\\idataaccessobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ED4EF07-0EEE-49B3-9E57-3B49B627C851}|DataAccessObjects\\DataAccess.csproj|solutionrelative:dataaccessobjects\\dao\\idataaccessobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F122C832-1DFC-4DE3-A84C-24AC5D969EA2}|BusinessObjects\\BusinessObjects.csproj|d:\\materials-fpt-cn5\\prn212\\project\\hotelmanagementsystem_de180316_truonganhtuan_prn212\\businessobjects\\roomtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F122C832-1DFC-4DE3-A84C-24AC5D969EA2}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\roomtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ED4EF07-0EEE-49B3-9E57-3B49B627C851}|DataAccessObjects\\DataAccess.csproj|d:\\materials-fpt-cn5\\prn212\\project\\hotelmanagementsystem_de180316_truonganhtuan_prn212\\dataaccessobjects\\service\\bookingdetailvmservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ED4EF07-0EEE-49B3-9E57-3B49B627C851}|DataAccessObjects\\DataAccess.csproj|solutionrelative:dataaccessobjects\\service\\bookingdetailvmservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ED4EF07-0EEE-49B3-9E57-3B49B627C851}|DataAccessObjects\\DataAccess.csproj|d:\\materials-fpt-cn5\\prn212\\project\\hotelmanagementsystem_de180316_truonganhtuan_prn212\\dataaccessobjects\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ED4EF07-0EEE-49B3-9E57-3B49B627C851}|DataAccessObjects\\DataAccess.csproj|solutionrelative:dataaccessobjects\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ED4EF07-0EEE-49B3-9E57-3B49B627C851}|DataAccessObjects\\DataAccess.csproj|d:\\materials-fpt-cn5\\prn212\\project\\hotelmanagementsystem_de180316_truonganhtuan_prn212\\dataaccessobjects\\dao\\roomtypedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ED4EF07-0EEE-49B3-9E57-3B49B627C851}|DataAccessObjects\\DataAccess.csproj|solutionrelative:dataaccessobjects\\dao\\roomtypedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74B6B8B1-CAC2-4E11-930A-D944A63ABB85}|HMSApp\\HMSApp.csproj|d:\\materials-fpt-cn5\\prn212\\project\\hotelmanagementsystem_de180316_truonganhtuan_prn212\\hmsapp\\diservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74B6B8B1-CAC2-4E11-930A-D944A63ABB85}|HMSApp\\HMSApp.csproj|solutionrelative:hmsapp\\diservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74B6B8B1-CAC2-4E11-930A-D944A63ABB85}|HMSApp\\HMSApp.csproj|d:\\materials-fpt-cn5\\prn212\\project\\hotelmanagementsystem_de180316_truonganhtuan_prn212\\hmsapp\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{74B6B8B1-CAC2-4E11-930A-D944A63ABB85}|HMSApp\\HMSApp.csproj|solutionrelative:hmsapp\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74B6B8B1-CAC2-4E11-930A-D944A63ABB85}|HMSApp\\HMSApp.csproj|d:\\materials-fpt-cn5\\prn212\\project\\hotelmanagementsystem_de180316_truonganhtuan_prn212\\hmsapp\\windowupdateroom.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{74B6B8B1-CAC2-4E11-930A-D944A63ABB85}|HMSApp\\HMSApp.csproj|solutionrelative:hmsapp\\windowupdateroom.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\materials-fpt-cn5\\PRN212\\Project\\HotelManagementSystem_DE180316_TruongAnhTuan_PRN212\\HMSApp\\obj\\Debug\\net8.0-windows\\WindowUpdateBookingDetail.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HMSApp\\obj\\Debug\\net8.0-windows\\WindowUpdateBookingDetail.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74B6B8B1-CAC2-4E11-930A-D944A63ABB85}|HMSApp\\HMSApp.csproj|d:\\materials-fpt-cn5\\prn212\\project\\hotelmanagementsystem_de180316_truonganhtuan_prn212\\hmsapp\\windowupdatebookingdetail.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{74B6B8B1-CAC2-4E11-930A-D944A63ABB85}|HMSApp\\HMSApp.csproj|solutionrelative:hmsapp\\windowupdatebookingdetail.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74B6B8B1-CAC2-4E11-930A-D944A63ABB85}|HMSApp\\HMSApp.csproj|d:\\materials-fpt-cn5\\prn212\\project\\hotelmanagementsystem_de180316_truonganhtuan_prn212\\hmsapp\\windowcreateroom.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74B6B8B1-CAC2-4E11-930A-D944A63ABB85}|HMSApp\\HMSApp.csproj|solutionrelative:hmsapp\\windowcreateroom.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74B6B8B1-CAC2-4E11-930A-D944A63ABB85}|HMSApp\\HMSApp.csproj|d:\\materials-fpt-cn5\\prn212\\project\\hotelmanagementsystem_de180316_truonganhtuan_prn212\\hmsapp\\windowcreatebooking.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{74B6B8B1-CAC2-4E11-930A-D944A63ABB85}|HMSApp\\HMSApp.csproj|solutionrelative:hmsapp\\windowcreatebooking.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ED4EF07-0EEE-49B3-9E57-3B49B627C851}|DataAccessObjects\\DataAccess.csproj|d:\\materials-fpt-cn5\\prn212\\project\\hotelmanagementsystem_de180316_truonganhtuan_prn212\\dataaccessobjects\\repository\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ED4EF07-0EEE-49B3-9E57-3B49B627C851}|DataAccessObjects\\DataAccess.csproj|solutionrelative:dataaccessobjects\\repository\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74B6B8B1-CAC2-4E11-930A-D944A63ABB85}|HMSApp\\HMSApp.csproj|d:\\materials-fpt-cn5\\prn212\\project\\hotelmanagementsystem_de180316_truonganhtuan_prn212\\hmsapp\\windowcreateroom.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{74B6B8B1-CAC2-4E11-930A-D944A63ABB85}|HMSApp\\HMSApp.csproj|solutionrelative:hmsapp\\windowcreateroom.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ED4EF07-0EEE-49B3-9E57-3B49B627C851}|DataAccessObjects\\DataAccess.csproj|d:\\materials-fpt-cn5\\prn212\\project\\hotelmanagementsystem_de180316_truonganhtuan_prn212\\dataaccessobjects\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ED4EF07-0EEE-49B3-9E57-3B49B627C851}|DataAccessObjects\\DataAccess.csproj|solutionrelative:dataaccessobjects\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ED4EF07-0EEE-49B3-9E57-3B49B627C851}|DataAccessObjects\\DataAccess.csproj|d:\\materials-fpt-cn5\\prn212\\project\\hotelmanagementsystem_de180316_truonganhtuan_prn212\\dataaccessobjects\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8ED4EF07-0EEE-49B3-9E57-3B49B627C851}|DataAccessObjects\\DataAccess.csproj|solutionrelative:dataaccessobjects\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74B6B8B1-CAC2-4E11-930A-D944A63ABB85}|HMSApp\\HMSApp.csproj|d:\\materials-fpt-cn5\\prn212\\project\\hotelmanagementsystem_de180316_truonganhtuan_prn212\\hmsapp\\windowupdateprofile.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74B6B8B1-CAC2-4E11-930A-D944A63ABB85}|HMSApp\\HMSApp.csproj|solutionrelative:hmsapp\\windowupdateprofile.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74B6B8B1-CAC2-4E11-930A-D944A63ABB85}|HMSApp\\HMSApp.csproj|d:\\materials-fpt-cn5\\prn212\\project\\hotelmanagementsystem_de180316_truonganhtuan_prn212\\hmsapp\\windowchangepassword.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74B6B8B1-CAC2-4E11-930A-D944A63ABB85}|HMSApp\\HMSApp.csproj|solutionrelative:hmsapp\\windowchangepassword.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74B6B8B1-CAC2-4E11-930A-D944A63ABB85}|HMSApp\\HMSApp.csproj|d:\\materials-fpt-cn5\\prn212\\project\\hotelmanagementsystem_de180316_truonganhtuan_prn212\\hmsapp\\windowchangepassword.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{74B6B8B1-CAC2-4E11-930A-D944A63ABB85}|HMSApp\\HMSApp.csproj|solutionrelative:hmsapp\\windowchangepassword.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74B6B8B1-CAC2-4E11-930A-D944A63ABB85}|HMSApp\\HMSApp.csproj|d:\\materials-fpt-cn5\\prn212\\project\\hotelmanagementsystem_de180316_truonganhtuan_prn212\\hmsapp\\windowupdateprofile.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{74B6B8B1-CAC2-4E11-930A-D944A63ABB85}|HMSApp\\HMSApp.csproj|solutionrelative:hmsapp\\windowupdateprofile.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ED4EF07-0EEE-49B3-9E57-3B49B627C851}|DataAccessObjects\\DataAccess.csproj|d:\\materials-fpt-cn5\\prn212\\project\\hotelmanagementsystem_de180316_truonganhtuan_prn212\\dataaccessobjects\\repository\\roomtyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ED4EF07-0EEE-49B3-9E57-3B49B627C851}|DataAccessObjects\\DataAccess.csproj|solutionrelative:dataaccessobjects\\repository\\roomtyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74B6B8B1-CAC2-4E11-930A-D944A63ABB85}|HMSApp\\HMSApp.csproj|d:\\materials-fpt-cn5\\prn212\\project\\hotelmanagementsystem_de180316_truonganhtuan_prn212\\hmsapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74B6B8B1-CAC2-4E11-930A-D944A63ABB85}|HMSApp\\HMSApp.csproj|solutionrelative:hmsapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74B6B8B1-CAC2-4E11-930A-D944A63ABB85}|HMSApp\\HMSApp.csproj|d:\\materials-fpt-cn5\\prn212\\project\\hotelmanagementsystem_de180316_truonganhtuan_prn212\\hmsapp\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74B6B8B1-CAC2-4E11-930A-D944A63ABB85}|HMSApp\\HMSApp.csproj|solutionrelative:hmsapp\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74B6B8B1-CAC2-4E11-930A-D944A63ABB85}|HMSApp\\HMSApp.csproj|d:\\materials-fpt-cn5\\prn212\\project\\hotelmanagementsystem_de180316_truonganhtuan_prn212\\hmsapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{74B6B8B1-CAC2-4E11-930A-D944A63ABB85}|HMSApp\\HMSApp.csproj|solutionrelative:hmsapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\FPTSHOP\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74B6B8B1-CAC2-4E11-930A-D944A63ABB85}|HMSApp\\HMSApp.csproj|d:\\materials-fpt-cn5\\prn212\\project\\hotelmanagementsystem_de180316_truonganhtuan_prn212\\hmsapp\\hmsapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{74B6B8B1-CAC2-4E11-930A-D944A63ABB85}|HMSApp\\HMSApp.csproj|solutionrelative:hmsapp\\hmsapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F122C832-1DFC-4DE3-A84C-24AC5D969EA2}|BusinessObjects\\BusinessObjects.csproj|d:\\materials-fpt-cn5\\prn212\\project\\hotelmanagementsystem_de180316_truonganhtuan_prn212\\businessobjects\\businessobjects.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{F122C832-1DFC-4DE3-A84C-24AC5D969EA2}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\businessobjects.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F122C832-1DFC-4DE3-A84C-24AC5D969EA2}|BusinessObjects\\BusinessObjects.csproj|d:\\materials-fpt-cn5\\prn212\\project\\hotelmanagementsystem_de180316_truonganhtuan_prn212\\businessobjects\\businessobjects.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F122C832-1DFC-4DE3-A84C-24AC5D969EA2}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\businessobjects.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ED4EF07-0EEE-49B3-9E57-3B49B627C851}|DataAccessObjects\\DataAccess.csproj|d:\\materials-fpt-cn5\\prn212\\project\\hotelmanagementsystem_de180316_truonganhtuan_prn212\\dataaccessobjects\\migrations\\20241015224901_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ED4EF07-0EEE-49B3-9E57-3B49B627C851}|DataAccessObjects\\DataAccess.csproj|solutionrelative:dataaccessobjects\\migrations\\20241015224901_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ED4EF07-0EEE-49B3-9E57-3B49B627C851}|DataAccessObjects\\DataAccess.csproj|d:\\materials-fpt-cn5\\prn212\\project\\hotelmanagementsystem_de180316_truonganhtuan_prn212\\dataaccessobjects\\migrations\\20241016033908_update_db_1.0.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ED4EF07-0EEE-49B3-9E57-3B49B627C851}|DataAccessObjects\\DataAccess.csproj|solutionrelative:dataaccessobjects\\migrations\\20241016033908_update_db_1.0.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "P_Static.xaml",
+              "DocumentMoniker": "D:\\materials-fpt-cn5\\PRN212\\Project\\HotelManagementSystem_DE180316_TruongAnhTuan_PRN212\\HMSApp\\P_Static.xaml",
+              "RelativeDocumentMoniker": "HMSApp\\P_Static.xaml",
+              "ToolTip": "D:\\materials-fpt-cn5\\PRN212\\Project\\HotelManagementSystem_DE180316_TruongAnhTuan_PRN212\\HMSApp\\P_Static.xaml",
+              "RelativeToolTip": "HMSApp\\P_Static.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-18T07:16:17.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "P_RoomManagement.xaml.cs",
+              "DocumentMoniker": "D:\\materials-fpt-cn5\\PRN212\\Project\\HotelManagementSystem_DE180316_TruongAnhTuan_PRN212\\HMSApp\\P_RoomManagement.xaml.cs",
+              "RelativeDocumentMoniker": "HMSApp\\P_RoomManagement.xaml.cs",
+              "ToolTip": "D:\\materials-fpt-cn5\\PRN212\\Project\\HotelManagementSystem_DE180316_TruongAnhTuan_PRN212\\HMSApp\\P_RoomManagement.xaml.cs",
+              "RelativeToolTip": "HMSApp\\P_RoomManagement.xaml.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAxwFIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T19:09:58.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WindowUpdateRoom.xaml.cs",
+              "DocumentMoniker": "D:\\materials-fpt-cn5\\PRN212\\Project\\HotelManagementSystem_DE180316_TruongAnhTuan_PRN212\\HMSApp\\WindowUpdateRoom.xaml.cs",
+              "RelativeDocumentMoniker": "HMSApp\\WindowUpdateRoom.xaml.cs",
+              "ToolTip": "D:\\materials-fpt-cn5\\PRN212\\Project\\HotelManagementSystem_DE180316_TruongAnhTuan_PRN212\\HMSApp\\WindowUpdateRoom.xaml.cs",
+              "RelativeToolTip": "HMSApp\\WindowUpdateRoom.xaml.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAAAGYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T19:19:50.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "P_ReservationHistory.xaml.cs",
+              "DocumentMoniker": "D:\\materials-fpt-cn5\\PRN212\\Project\\HotelManagementSystem_DE180316_TruongAnhTuan_PRN212\\HMSApp\\P_ReservationHistory.xaml.cs",
+              "RelativeDocumentMoniker": "HMSApp\\P_ReservationHistory.xaml.cs",
+              "ToolTip": "D:\\materials-fpt-cn5\\PRN212\\Project\\HotelManagementSystem_DE180316_TruongAnhTuan_PRN212\\HMSApp\\P_ReservationHistory.xaml.cs",
+              "RelativeToolTip": "HMSApp\\P_ReservationHistory.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAACNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T20:11:50.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "P_Static.xaml.cs",
+              "DocumentMoniker": "D:\\materials-fpt-cn5\\PRN212\\Project\\HotelManagementSystem_DE180316_TruongAnhTuan_PRN212\\HMSApp\\P_Static.xaml.cs",
+              "RelativeDocumentMoniker": "HMSApp\\P_Static.xaml.cs",
+              "ToolTip": "D:\\materials-fpt-cn5\\PRN212\\Project\\HotelManagementSystem_DE180316_TruongAnhTuan_PRN212\\HMSApp\\P_Static.xaml.cs",
+              "RelativeToolTip": "HMSApp\\P_Static.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T19:56:31.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BookingReservationDAO.cs",
+              "DocumentMoniker": "D:\\materials-fpt-cn5\\PRN212\\Project\\HotelManagementSystem_DE180316_TruongAnhTuan_PRN212\\DataAccessObjects\\DAO\\BookingReservationDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessObjects\\DAO\\BookingReservationDAO.cs",
+              "ToolTip": "D:\\materials-fpt-cn5\\PRN212\\Project\\HotelManagementSystem_DE180316_TruongAnhTuan_PRN212\\DataAccessObjects\\DAO\\BookingReservationDAO.cs",
+              "RelativeToolTip": "DataAccessObjects\\DAO\\BookingReservationDAO.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAACsAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T05:21:53.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "P_BookingDetail.xaml.cs",
+              "DocumentMoniker": "D:\\materials-fpt-cn5\\PRN212\\Project\\HotelManagementSystem_DE180316_TruongAnhTuan_PRN212\\HMSApp\\P_BookingDetail.xaml.cs",
+              "RelativeDocumentMoniker": "HMSApp\\P_BookingDetail.xaml.cs",
+              "ToolTip": "D:\\materials-fpt-cn5\\PRN212\\Project\\HotelManagementSystem_DE180316_TruongAnhTuan_PRN212\\HMSApp\\P_BookingDetail.xaml.cs",
+              "RelativeToolTip": "HMSApp\\P_BookingDetail.xaml.cs",
+              "ViewState": "AgIAAJUAAAAAAAAAAAAAAJwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T20:15:25.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "P_BookingDetail.xaml",
+              "DocumentMoniker": "D:\\materials-fpt-cn5\\PRN212\\Project\\HotelManagementSystem_DE180316_TruongAnhTuan_PRN212\\HMSApp\\P_BookingDetail.xaml",
+              "RelativeDocumentMoniker": "HMSApp\\P_BookingDetail.xaml",
+              "ToolTip": "D:\\materials-fpt-cn5\\PRN212\\Project\\HotelManagementSystem_DE180316_TruongAnhTuan_PRN212\\HMSApp\\P_BookingDetail.xaml",
+              "RelativeToolTip": "HMSApp\\P_BookingDetail.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-16T19:46:00.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RoomInformationDAO.cs",
+              "DocumentMoniker": "D:\\materials-fpt-cn5\\PRN212\\Project\\HotelManagementSystem_DE180316_TruongAnhTuan_PRN212\\DataAccessObjects\\DAO\\RoomInformationDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessObjects\\DAO\\RoomInformationDAO.cs",
+              "ToolTip": "D:\\materials-fpt-cn5\\PRN212\\Project\\HotelManagementSystem_DE180316_TruongAnhTuan_PRN212\\DataAccessObjects\\DAO\\RoomInformationDAO.cs",
+              "RelativeToolTip": "DataAccessObjects\\DAO\\RoomInformationDAO.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAAC0AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T14:37:05.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RoomInformationRepository.cs",
+              "DocumentMoniker": "D:\\materials-fpt-cn5\\PRN212\\Project\\HotelManagementSystem_DE180316_TruongAnhTuan_PRN212\\DataAccessObjects\\Repository\\RoomInformationRepository.cs",
+              "RelativeDocumentMoniker": "DataAccessObjects\\Repository\\RoomInformationRepository.cs",
+              "ToolTip": "D:\\materials-fpt-cn5\\PRN212\\Project\\HotelManagementSystem_DE180316_TruongAnhTuan_PRN212\\DataAccessObjects\\Repository\\RoomInformationRepository.cs",
+              "RelativeToolTip": "DataAccessObjects\\Repository\\RoomInformationRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T06:52:31.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BookingReservationRepository.cs",
+              "DocumentMoniker": "D:\\materials-fpt-cn5\\PRN212\\Project\\HotelManagementSystem_DE180316_TruongAnhTuan_PRN212\\DataAccessObjects\\Repository\\BookingReservationRepository.cs",
+              "RelativeDocumentMoniker": "DataAccessObjects\\Repository\\BookingReservationRepository.cs",
+              "ToolTip": "D:\\materials-fpt-cn5\\PRN212\\Project\\HotelManagementSystem_DE180316_TruongAnhTuan_PRN212\\DataAccessObjects\\Repository\\BookingReservationRepository.cs",
+              "RelativeToolTip": "DataAccessObjects\\Repository\\BookingReservationRepository.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAWwBsAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T09:00:28.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IBookingReservationRepository.cs",
+              "DocumentMoniker": "D:\\materials-fpt-cn5\\PRN212\\Project\\HotelManagementSystem_DE180316_TruongAnhTuan_PRN212\\DataAccessObjects\\Repository\\IBookingReservationRepository.cs",
+              "RelativeDocumentMoniker": "DataAccessObjects\\Repository\\IBookingReservationRepository.cs",
+              "ToolTip": "D:\\materials-fpt-cn5\\PRN212\\Project\\HotelManagementSystem_DE180316_TruongAnhTuan_PRN212\\DataAccessObjects\\Repository\\IBookingReservationRepository.cs",
+              "RelativeToolTip": "DataAccessObjects\\Repository\\IBookingReservationRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T08:58:52.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "P_ReservationHistoryAdmin.xaml.cs",
+              "DocumentMoniker": "D:\\materials-fpt-cn5\\PRN212\\Project\\HotelManagementSystem_DE180316_TruongAnhTuan_PRN212\\HMSApp\\P_ReservationHistoryAdmin.xaml.cs",
+              "RelativeDocumentMoniker": "HMSApp\\P_ReservationHistoryAdmin.xaml.cs",
+              "ToolTip": "D:\\materials-fpt-cn5\\PRN212\\Project\\HotelManagementSystem_DE180316_TruongAnhTuan_PRN212\\HMSApp\\P_ReservationHistoryAdmin.xaml.cs",
+              "RelativeToolTip": "HMSApp\\P_ReservationHistoryAdmin.xaml.cs",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAAAI0AAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T06:35:26.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IRoomInformationRepository.cs",
+              "DocumentMoniker": "D:\\materials-fpt-cn5\\PRN212\\Project\\HotelManagementSystem_DE180316_TruongAnhTuan_PRN212\\DataAccessObjects\\Repository\\IRoomInformationRepository.cs",
+              "RelativeDocumentMoniker": "DataAccessObjects\\Repository\\IRoomInformationRepository.cs",
+              "ToolTip": "D:\\materials-fpt-cn5\\PRN212\\Project\\HotelManagementSystem_DE180316_TruongAnhTuan_PRN212\\DataAccessObjects\\Repository\\IRoomInformationRepository.cs",
+              "RelativeToolTip": "DataAccessObjects\\Repository\\IRoomInformationRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T15:38:07.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BookingDetailDAO.cs",
+              "DocumentMoniker": "D:\\materials-fpt-cn5\\PRN212\\Project\\HotelManagementSystem_DE180316_TruongAnhTuan_PRN212\\DataAccessObjects\\DAO\\BookingDetailDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessObjects\\DAO\\BookingDetailDAO.cs",
+              "ToolTip": "D:\\materials-fpt-cn5\\PRN212\\Project\\HotelManagementSystem_DE180316_TruongAnhTuan_PRN212\\DataAccessObjects\\DAO\\BookingDetailDAO.cs",
+              "RelativeToolTip": "DataAccessObjects\\DAO\\BookingDetailDAO.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAADkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T15:31:02.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RoomInformation.cs",
+              "DocumentMoniker": "D:\\materials-fpt-cn5\\PRN212\\Project\\HotelManagementSystem_DE180316_TruongAnhTuan_PRN212\\BusinessObjects\\RoomInformation.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\RoomInformation.cs",
+              "ToolTip": "D:\\materials-fpt-cn5\\PRN212\\Project\\HotelManagementSystem_DE180316_TruongAnhTuan_PRN212\\BusinessObjects\\RoomInformation.cs",
+              "RelativeToolTip": "BusinessObjects\\RoomInformation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T04:23:05.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BookingDetailRepository.cs",
+              "DocumentMoniker": "D:\\materials-fpt-cn5\\PRN212\\Project\\HotelManagementSystem_DE180316_TruongAnhTuan_PRN212\\DataAccessObjects\\Repository\\BookingDetailRepository.cs",
+              "RelativeDocumentMoniker": "DataAccessObjects\\Repository\\BookingDetailRepository.cs",
+              "ToolTip": "D:\\materials-fpt-cn5\\PRN212\\Project\\HotelManagementSystem_DE180316_TruongAnhTuan_PRN212\\DataAccessObjects\\Repository\\BookingDetailRepository.cs",
+              "RelativeToolTip": "DataAccessObjects\\Repository\\BookingDetailRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T21:10:54.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IBookingDetailRepository.cs",
+              "DocumentMoniker": "D:\\materials-fpt-cn5\\PRN212\\Project\\HotelManagementSystem_DE180316_TruongAnhTuan_PRN212\\DataAccessObjects\\Repository\\IBookingDetailRepository.cs",
+              "RelativeDocumentMoniker": "DataAccessObjects\\Repository\\IBookingDetailRepository.cs",
+              "ToolTip": "D:\\materials-fpt-cn5\\PRN212\\Project\\HotelManagementSystem_DE180316_TruongAnhTuan_PRN212\\DataAccessObjects\\Repository\\IBookingDetailRepository.cs",
+              "RelativeToolTip": "DataAccessObjects\\Repository\\IBookingDetailRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T21:10:14.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "WindowCreateBooking.xaml.cs",
+              "DocumentMoniker": "D:\\materials-fpt-cn5\\PRN212\\Project\\HotelManagementSystem_DE180316_TruongAnhTuan_PRN212\\HMSApp\\WindowCreateBooking.xaml.cs",
+              "RelativeDocumentMoniker": "HMSApp\\WindowCreateBooking.xaml.cs",
+              "ToolTip": "D:\\materials-fpt-cn5\\PRN212\\Project\\HotelManagementSystem_DE180316_TruongAnhTuan_PRN212\\HMSApp\\WindowCreateBooking.xaml.cs",
+              "RelativeToolTip": "HMSApp\\WindowCreateBooking.xaml.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAADkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T17:25:29.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "P_BookingReservation.xaml.cs",
+              "DocumentMoniker": "D:\\materials-fpt-cn5\\PRN212\\Project\\HotelManagementSystem_DE180316_TruongAnhTuan_PRN212\\HMSApp\\P_BookingReservation.xaml.cs",
+              "RelativeDocumentMoniker": "HMSApp\\P_BookingReservation.xaml.cs",
+              "ToolTip": "D:\\materials-fpt-cn5\\PRN212\\Project\\HotelManagementSystem_DE180316_TruongAnhTuan_PRN212\\HMSApp\\P_BookingReservation.xaml.cs",
+              "RelativeToolTip": "HMSApp\\P_BookingReservation.xaml.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAAAGsAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T23:30:44.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "P_BookingReservation.xaml",
+              "DocumentMoniker": "D:\\materials-fpt-cn5\\PRN212\\Project\\HotelManagementSystem_DE180316_TruongAnhTuan_PRN212\\HMSApp\\P_BookingReservation.xaml",
+              "RelativeDocumentMoniker": "HMSApp\\P_BookingReservation.xaml",
+              "ToolTip": "D:\\materials-fpt-cn5\\PRN212\\Project\\HotelManagementSystem_DE180316_TruongAnhTuan_PRN212\\HMSApp\\P_BookingReservation.xaml",
+              "RelativeToolTip": "HMSApp\\P_BookingReservation.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-16T06:39:29.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "WindowCustomer.xaml.cs",
+              "DocumentMoniker": "D:\\materials-fpt-cn5\\PRN212\\Project\\HotelManagementSystem_DE180316_TruongAnhTuan_PRN212\\HMSApp\\WindowCustomer.xaml.cs",
+              "RelativeDocumentMoniker": "HMSApp\\WindowCustomer.xaml.cs",
+              "ToolTip": "D:\\materials-fpt-cn5\\PRN212\\Project\\HotelManagementSystem_DE180316_TruongAnhTuan_PRN212\\HMSApp\\WindowCustomer.xaml.cs",
+              "RelativeToolTip": "HMSApp\\WindowCustomer.xaml.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAAADwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T17:57:34.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "WindowAdmin.xaml.cs",
+              "DocumentMoniker": "D:\\materials-fpt-cn5\\PRN212\\Project\\HotelManagementSystem_DE180316_TruongAnhTuan_PRN212\\HMSApp\\WindowAdmin.xaml.cs",
+              "RelativeDocumentMoniker": "HMSApp\\WindowAdmin.xaml.cs",
+              "ToolTip": "D:\\materials-fpt-cn5\\PRN212\\Project\\HotelManagementSystem_DE180316_TruongAnhTuan_PRN212\\HMSApp\\WindowAdmin.xaml.cs",
+              "RelativeToolTip": "HMSApp\\WindowAdmin.xaml.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAFAAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T18:42:35.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Login.xaml.cs",
+              "DocumentMoniker": "D:\\materials-fpt-cn5\\PRN212\\Project\\HotelManagementSystem_DE180316_TruongAnhTuan_PRN212\\HMSApp\\Login.xaml.cs",
+              "RelativeDocumentMoniker": "HMSApp\\Login.xaml.cs",
+              "ToolTip": "D:\\materials-fpt-cn5\\PRN212\\Project\\HotelManagementSystem_DE180316_TruongAnhTuan_PRN212\\HMSApp\\Login.xaml.cs",
+              "RelativeToolTip": "HMSApp\\Login.xaml.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAAAC0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T07:47:15.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "NavigationManager.cs",
+              "DocumentMoniker": "D:\\materials-fpt-cn5\\PRN212\\Project\\HotelManagementSystem_DE180316_TruongAnhTuan_PRN212\\HMSApp\\NavigationManager.cs",
+              "RelativeDocumentMoniker": "HMSApp\\NavigationManager.cs",
+              "ToolTip": "D:\\materials-fpt-cn5\\PRN212\\Project\\HotelManagementSystem_DE180316_TruongAnhTuan_PRN212\\HMSApp\\NavigationManager.cs",
+              "RelativeToolTip": "HMSApp\\NavigationManager.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAmwBwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T00:22:53.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DataAccess.csproj",
+              "DocumentMoniker": "D:\\materials-fpt-cn5\\PRN212\\Project\\HotelManagementSystem_DE180316_TruongAnhTuan_PRN212\\DataAccessObjects\\DataAccess.csproj",
+              "RelativeDocumentMoniker": "DataAccessObjects\\DataAccess.csproj",
+              "ToolTip": "D:\\materials-fpt-cn5\\PRN212\\Project\\HotelManagementSystem_DE180316_TruongAnhTuan_PRN212\\DataAccessObjects\\DataAccess.csproj",
+              "RelativeToolTip": "DataAccessObjects\\DataAccess.csproj",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAUwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-13T18:17:40.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "P_CustomerProfile.xaml",
+              "DocumentMoniker": "D:\\materials-fpt-cn5\\PRN212\\Project\\HotelManagementSystem_DE180316_TruongAnhTuan_PRN212\\HMSApp\\P_CustomerProfile.xaml",
+              "RelativeDocumentMoniker": "HMSApp\\P_CustomerProfile.xaml",
+              "ToolTip": "D:\\materials-fpt-cn5\\PRN212\\Project\\HotelManagementSystem_DE180316_TruongAnhTuan_PRN212\\HMSApp\\P_CustomerProfile.xaml",
+              "RelativeToolTip": "HMSApp\\P_CustomerProfile.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-13T18:45:57.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "P_CustomerManagement.xaml.cs",
+              "DocumentMoniker": "D:\\materials-fpt-cn5\\PRN212\\Project\\HotelManagementSystem_DE180316_TruongAnhTuan_PRN212\\HMSApp\\P_CustomerManagement.xaml.cs",
+              "RelativeDocumentMoniker": "HMSApp\\P_CustomerManagement.xaml.cs",
+              "ToolTip": "D:\\materials-fpt-cn5\\PRN212\\Project\\HotelManagementSystem_DE180316_TruongAnhTuan_PRN212\\HMSApp\\P_CustomerManagement.xaml.cs",
+              "RelativeToolTip": "HMSApp\\P_CustomerManagement.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T18:57:16.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "P_CustomerManagement.xaml",
+              "DocumentMoniker": "D:\\materials-fpt-cn5\\PRN212\\Project\\HotelManagementSystem_DE180316_TruongAnhTuan_PRN212\\HMSApp\\P_CustomerManagement.xaml",
+              "RelativeDocumentMoniker": "HMSApp\\P_CustomerManagement.xaml",
+              "ToolTip": "D:\\materials-fpt-cn5\\PRN212\\Project\\HotelManagementSystem_DE180316_TruongAnhTuan_PRN212\\HMSApp\\P_CustomerManagement.xaml",
+              "RelativeToolTip": "HMSApp\\P_CustomerManagement.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-13T18:44:33.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "P_ReservationHistory.xaml",
+              "DocumentMoniker": "D:\\materials-fpt-cn5\\PRN212\\Project\\HotelManagementSystem_DE180316_TruongAnhTuan_PRN212\\HMSApp\\P_ReservationHistory.xaml",
+              "RelativeDocumentMoniker": "HMSApp\\P_ReservationHistory.xaml",
+              "ToolTip": "D:\\materials-fpt-cn5\\PRN212\\Project\\HotelManagementSystem_DE180316_TruongAnhTuan_PRN212\\HMSApp\\P_ReservationHistory.xaml",
+              "RelativeToolTip": "HMSApp\\P_ReservationHistory.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-17T14:20:11.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "P_ReservationHistoryAdmin.xaml",
+              "DocumentMoniker": "D:\\materials-fpt-cn5\\PRN212\\Project\\HotelManagementSystem_DE180316_TruongAnhTuan_PRN212\\HMSApp\\P_ReservationHistoryAdmin.xaml",
+              "RelativeDocumentMoniker": "HMSApp\\P_ReservationHistoryAdmin.xaml",
+              "ToolTip": "D:\\materials-fpt-cn5\\PRN212\\Project\\HotelManagementSystem_DE180316_TruongAnhTuan_PRN212\\HMSApp\\P_ReservationHistoryAdmin.xaml",
+              "RelativeToolTip": "HMSApp\\P_ReservationHistoryAdmin.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-18T06:35:28.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "WindowUpdateBookingDetail.xaml.cs",
+              "DocumentMoniker": "D:\\materials-fpt-cn5\\PRN212\\Project\\HotelManagementSystem_DE180316_TruongAnhTuan_PRN212\\HMSApp\\WindowUpdateBookingDetail.xaml.cs",
+              "RelativeDocumentMoniker": "HMSApp\\WindowUpdateBookingDetail.xaml.cs",
+              "ToolTip": "D:\\materials-fpt-cn5\\PRN212\\Project\\HotelManagementSystem_DE180316_TruongAnhTuan_PRN212\\HMSApp\\WindowUpdateBookingDetail.xaml.cs",
+              "RelativeToolTip": "HMSApp\\WindowUpdateBookingDetail.xaml.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAAE8AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T05:04:27.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "WindowCustomer.xaml",
+              "DocumentMoniker": "D:\\materials-fpt-cn5\\PRN212\\Project\\HotelManagementSystem_DE180316_TruongAnhTuan_PRN212\\HMSApp\\WindowCustomer.xaml",
+              "RelativeDocumentMoniker": "HMSApp\\WindowCustomer.xaml",
+              "ToolTip": "D:\\materials-fpt-cn5\\PRN212\\Project\\HotelManagementSystem_DE180316_TruongAnhTuan_PRN212\\HMSApp\\WindowCustomer.xaml",
+              "RelativeToolTip": "HMSApp\\WindowCustomer.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-13T17:54:28.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "WindowAdmin.xaml",
+              "DocumentMoniker": "D:\\materials-fpt-cn5\\PRN212\\Project\\HotelManagementSystem_DE180316_TruongAnhTuan_PRN212\\HMSApp\\WindowAdmin.xaml",
+              "RelativeDocumentMoniker": "HMSApp\\WindowAdmin.xaml",
+              "ToolTip": "D:\\materials-fpt-cn5\\PRN212\\Project\\HotelManagementSystem_DE180316_TruongAnhTuan_PRN212\\HMSApp\\WindowAdmin.xaml",
+              "RelativeToolTip": "HMSApp\\WindowAdmin.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-13T17:53:45.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "P_CustomerProfile.xaml.cs",
+              "DocumentMoniker": "D:\\materials-fpt-cn5\\PRN212\\Project\\HotelManagementSystem_DE180316_TruongAnhTuan_PRN212\\HMSApp\\P_CustomerProfile.xaml.cs",
+              "RelativeDocumentMoniker": "HMSApp\\P_CustomerProfile.xaml.cs",
+              "ToolTip": "D:\\materials-fpt-cn5\\PRN212\\Project\\HotelManagementSystem_DE180316_TruongAnhTuan_PRN212\\HMSApp\\P_CustomerProfile.xaml.cs",
+              "RelativeToolTip": "HMSApp\\P_CustomerProfile.xaml.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAACMAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T20:03:24.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "BookingReservation.cs",
+              "DocumentMoniker": "D:\\materials-fpt-cn5\\PRN212\\Project\\HotelManagementSystem_DE180316_TruongAnhTuan_PRN212\\BusinessObjects\\BookingReservation.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\BookingReservation.cs",
+              "ToolTip": "D:\\materials-fpt-cn5\\PRN212\\Project\\HotelManagementSystem_DE180316_TruongAnhTuan_PRN212\\BusinessObjects\\BookingReservation.cs",
+              "RelativeToolTip": "BusinessObjects\\BookingReservation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T09:21:50.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "BookingDetail.cs",
+              "DocumentMoniker": "D:\\materials-fpt-cn5\\PRN212\\Project\\HotelManagementSystem_DE180316_TruongAnhTuan_PRN212\\BusinessObjects\\BookingDetail.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\BookingDetail.cs",
+              "ToolTip": "D:\\materials-fpt-cn5\\PRN212\\Project\\HotelManagementSystem_DE180316_TruongAnhTuan_PRN212\\BusinessObjects\\BookingDetail.cs",
+              "RelativeToolTip": "BusinessObjects\\BookingDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T22:01:18.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "CustomerDAO.cs",
+              "DocumentMoniker": "D:\\materials-fpt-cn5\\PRN212\\Project\\HotelManagementSystem_DE180316_TruongAnhTuan_PRN212\\DataAccessObjects\\DAO\\CustomerDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessObjects\\DAO\\CustomerDAO.cs",
+              "ToolTip": "D:\\materials-fpt-cn5\\PRN212\\Project\\HotelManagementSystem_DE180316_TruongAnhTuan_PRN212\\DataAccessObjects\\DAO\\CustomerDAO.cs",
+              "RelativeToolTip": "DataAccessObjects\\DAO\\CustomerDAO.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T03:11:59.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "CustomerBookingRoom.cs",
+              "DocumentMoniker": "D:\\materials-fpt-cn5\\PRN212\\Project\\HotelManagementSystem_DE180316_TruongAnhTuan_PRN212\\BusinessObjects\\CustomerBookingRoom.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\CustomerBookingRoom.cs",
+              "ToolTip": "D:\\materials-fpt-cn5\\PRN212\\Project\\HotelManagementSystem_DE180316_TruongAnhTuan_PRN212\\BusinessObjects\\CustomerBookingRoom.cs",
+              "RelativeToolTip": "BusinessObjects\\CustomerBookingRoom.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAkwAwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T13:27:53.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\materials-fpt-cn5\\PRN212\\Project\\HotelManagementSystem_DE180316_TruongAnhTuan_PRN212\\BusinessObjects\\Customer.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\Customer.cs",
+              "ToolTip": "D:\\materials-fpt-cn5\\PRN212\\Project\\HotelManagementSystem_DE180316_TruongAnhTuan_PRN212\\BusinessObjects\\Customer.cs",
+              "RelativeToolTip": "BusinessObjects\\Customer.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T05:19:33.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "WindowUpdateRoom.xaml",
+              "DocumentMoniker": "D:\\materials-fpt-cn5\\PRN212\\Project\\HotelManagementSystem_DE180316_TruongAnhTuan_PRN212\\HMSApp\\WindowUpdateRoom.xaml",
+              "RelativeDocumentMoniker": "HMSApp\\WindowUpdateRoom.xaml",
+              "ToolTip": "D:\\materials-fpt-cn5\\PRN212\\Project\\HotelManagementSystem_DE180316_TruongAnhTuan_PRN212\\HMSApp\\WindowUpdateRoom.xaml",
+              "RelativeToolTip": "HMSApp\\WindowUpdateRoom.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-13T19:19:28.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "WindowUpdateBookingDetail.g.i.cs",
+              "DocumentMoniker": "D:\\materials-fpt-cn5\\PRN212\\Project\\HotelManagementSystem_DE180316_TruongAnhTuan_PRN212\\HMSApp\\obj\\Debug\\net8.0-windows\\WindowUpdateBookingDetail.g.i.cs",
+              "RelativeDocumentMoniker": "HMSApp\\obj\\Debug\\net8.0-windows\\WindowUpdateBookingDetail.g.i.cs",
+              "ToolTip": "D:\\materials-fpt-cn5\\PRN212\\Project\\HotelManagementSystem_DE180316_TruongAnhTuan_PRN212\\HMSApp\\obj\\Debug\\net8.0-windows\\WindowUpdateBookingDetail.g.i.cs",
+              "RelativeToolTip": "HMSApp\\obj\\Debug\\net8.0-windows\\WindowUpdateBookingDetail.g.i.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAuwGAAAACFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T06:06:10.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "WindowUpdateBookingDetail.xaml",
+              "DocumentMoniker": "D:\\materials-fpt-cn5\\PRN212\\Project\\HotelManagementSystem_DE180316_TruongAnhTuan_PRN212\\HMSApp\\WindowUpdateBookingDetail.xaml",
+              "RelativeDocumentMoniker": "HMSApp\\WindowUpdateBookingDetail.xaml",
+              "ToolTip": "D:\\materials-fpt-cn5\\PRN212\\Project\\HotelManagementSystem_DE180316_TruongAnhTuan_PRN212\\HMSApp\\WindowUpdateBookingDetail.xaml",
+              "RelativeToolTip": "HMSApp\\WindowUpdateBookingDetail.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-17T04:48:26.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "WindowCreateRoom.xaml.cs",
+              "DocumentMoniker": "D:\\materials-fpt-cn5\\PRN212\\Project\\HotelManagementSystem_DE180316_TruongAnhTuan_PRN212\\HMSApp\\WindowCreateRoom.xaml.cs",
+              "RelativeDocumentMoniker": "HMSApp\\WindowCreateRoom.xaml.cs",
+              "ToolTip": "D:\\materials-fpt-cn5\\PRN212\\Project\\HotelManagementSystem_DE180316_TruongAnhTuan_PRN212\\HMSApp\\WindowCreateRoom.xaml.cs",
+              "RelativeToolTip": "HMSApp\\WindowCreateRoom.xaml.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T19:26:14.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "WindowCreateBooking.xaml",
+              "DocumentMoniker": "D:\\materials-fpt-cn5\\PRN212\\Project\\HotelManagementSystem_DE180316_TruongAnhTuan_PRN212\\HMSApp\\WindowCreateBooking.xaml",
+              "RelativeDocumentMoniker": "HMSApp\\WindowCreateBooking.xaml",
+              "ToolTip": "D:\\materials-fpt-cn5\\PRN212\\Project\\HotelManagementSystem_DE180316_TruongAnhTuan_PRN212\\HMSApp\\WindowCreateBooking.xaml",
+              "RelativeToolTip": "HMSApp\\WindowCreateBooking.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-16T17:23:03.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "DIService.cs",
+              "DocumentMoniker": "D:\\materials-fpt-cn5\\PRN212\\Project\\HotelManagementSystem_DE180316_TruongAnhTuan_PRN212\\HMSApp\\DIService.cs",
+              "RelativeDocumentMoniker": "HMSApp\\DIService.cs",
+              "ToolTip": "D:\\materials-fpt-cn5\\PRN212\\Project\\HotelManagementSystem_DE180316_TruongAnhTuan_PRN212\\HMSApp\\DIService.cs",
+              "RelativeToolTip": "HMSApp\\DIService.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAADgAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T21:12:57.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Login.xaml",
+              "DocumentMoniker": "D:\\materials-fpt-cn5\\PRN212\\Project\\HotelManagementSystem_DE180316_TruongAnhTuan_PRN212\\HMSApp\\Login.xaml",
+              "RelativeDocumentMoniker": "HMSApp\\Login.xaml",
+              "ToolTip": "D:\\materials-fpt-cn5\\PRN212\\Project\\HotelManagementSystem_DE180316_TruongAnhTuan_PRN212\\HMSApp\\Login.xaml",
+              "RelativeToolTip": "HMSApp\\Login.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-16T19:13:12.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "P_RoomManagement.xaml",
+              "DocumentMoniker": "D:\\materials-fpt-cn5\\PRN212\\Project\\HotelManagementSystem_DE180316_TruongAnhTuan_PRN212\\HMSApp\\P_RoomManagement.xaml",
+              "RelativeDocumentMoniker": "HMSApp\\P_RoomManagement.xaml",
+              "ToolTip": "D:\\materials-fpt-cn5\\PRN212\\Project\\HotelManagementSystem_DE180316_TruongAnhTuan_PRN212\\HMSApp\\P_RoomManagement.xaml",
+              "RelativeToolTip": "HMSApp\\P_RoomManagement.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-17T06:46:50.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ItemContainerGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\FPTSHOP\\AppData\\Local\\Temp\\.vsdbgsrc\\87e8fa7b41b167ab42b8b5aeea9768abb45906dd3d4a5ea75c8820fcb97f3545\\ItemContainerGenerator.cs",
+              "ToolTip": "C:\\Users\\FPTSHOP\\AppData\\Local\\Temp\\.vsdbgsrc\\87e8fa7b41b167ab42b8b5aeea9768abb45906dd3d4a5ea75c8820fcb97f3545\\ItemContainerGenerator.cs",
+              "ViewState": "AgIAAIoFAAAAAAAAAAAAAHsFAAAfAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T15:33:45.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "IDataAccessObject.cs",
+              "DocumentMoniker": "D:\\materials-fpt-cn5\\PRN212\\Project\\HotelManagementSystem_DE180316_TruongAnhTuan_PRN212\\DataAccessObjects\\DAO\\IDataAccessObject.cs",
+              "RelativeDocumentMoniker": "DataAccessObjects\\DAO\\IDataAccessObject.cs",
+              "ToolTip": "D:\\materials-fpt-cn5\\PRN212\\Project\\HotelManagementSystem_DE180316_TruongAnhTuan_PRN212\\DataAccessObjects\\DAO\\IDataAccessObject.cs",
+              "RelativeToolTip": "DataAccessObjects\\DAO\\IDataAccessObject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T13:48:16.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "RoomType.cs",
+              "DocumentMoniker": "D:\\materials-fpt-cn5\\PRN212\\Project\\HotelManagementSystem_DE180316_TruongAnhTuan_PRN212\\BusinessObjects\\RoomType.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\RoomType.cs",
+              "ToolTip": "D:\\materials-fpt-cn5\\PRN212\\Project\\HotelManagementSystem_DE180316_TruongAnhTuan_PRN212\\BusinessObjects\\RoomType.cs",
+              "RelativeToolTip": "BusinessObjects\\RoomType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T05:07:33.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "BookingDetailVMService.cs",
+              "DocumentMoniker": "D:\\materials-fpt-cn5\\PRN212\\Project\\HotelManagementSystem_DE180316_TruongAnhTuan_PRN212\\DataAccessObjects\\Service\\BookingDetailVMService.cs",
+              "RelativeDocumentMoniker": "DataAccessObjects\\Service\\BookingDetailVMService.cs",
+              "ToolTip": "D:\\materials-fpt-cn5\\PRN212\\Project\\HotelManagementSystem_DE180316_TruongAnhTuan_PRN212\\DataAccessObjects\\Service\\BookingDetailVMService.cs",
+              "RelativeToolTip": "DataAccessObjects\\Service\\BookingDetailVMService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T08:03:49.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\materials-fpt-cn5\\PRN212\\Project\\HotelManagementSystem_DE180316_TruongAnhTuan_PRN212\\DataAccessObjects\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "DataAccessObjects\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\materials-fpt-cn5\\PRN212\\Project\\HotelManagementSystem_DE180316_TruongAnhTuan_PRN212\\DataAccessObjects\\ApplicationDbContext.cs",
+              "RelativeToolTip": "DataAccessObjects\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T20:43:59.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "RoomTypeDAO.cs",
+              "DocumentMoniker": "D:\\materials-fpt-cn5\\PRN212\\Project\\HotelManagementSystem_DE180316_TruongAnhTuan_PRN212\\DataAccessObjects\\DAO\\RoomTypeDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessObjects\\DAO\\RoomTypeDAO.cs",
+              "ToolTip": "D:\\materials-fpt-cn5\\PRN212\\Project\\HotelManagementSystem_DE180316_TruongAnhTuan_PRN212\\DataAccessObjects\\DAO\\RoomTypeDAO.cs",
+              "RelativeToolTip": "DataAccessObjects\\DAO\\RoomTypeDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T03:29:38.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "D:\\materials-fpt-cn5\\PRN212\\Project\\HotelManagementSystem_DE180316_TruongAnhTuan_PRN212\\DataAccessObjects\\Repository\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "DataAccessObjects\\Repository\\CustomerRepository.cs",
+              "ToolTip": "D:\\materials-fpt-cn5\\PRN212\\Project\\HotelManagementSystem_DE180316_TruongAnhTuan_PRN212\\DataAccessObjects\\Repository\\CustomerRepository.cs",
+              "RelativeToolTip": "DataAccessObjects\\Repository\\CustomerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T03:11:51.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "WindowCreateRoom.xaml",
+              "DocumentMoniker": "D:\\materials-fpt-cn5\\PRN212\\Project\\HotelManagementSystem_DE180316_TruongAnhTuan_PRN212\\HMSApp\\WindowCreateRoom.xaml",
+              "RelativeDocumentMoniker": "HMSApp\\WindowCreateRoom.xaml",
+              "ToolTip": "D:\\materials-fpt-cn5\\PRN212\\Project\\HotelManagementSystem_DE180316_TruongAnhTuan_PRN212\\HMSApp\\WindowCreateRoom.xaml",
+              "RelativeToolTip": "HMSApp\\WindowCreateRoom.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-13T19:18:50.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\materials-fpt-cn5\\PRN212\\Project\\HotelManagementSystem_DE180316_TruongAnhTuan_PRN212\\DataAccessObjects\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "DataAccessObjects\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "D:\\materials-fpt-cn5\\PRN212\\Project\\HotelManagementSystem_DE180316_TruongAnhTuan_PRN212\\DataAccessObjects\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "DataAccessObjects\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T03:37:48.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "20241016033908_update_db_1.0.cs",
+              "DocumentMoniker": "D:\\materials-fpt-cn5\\PRN212\\Project\\HotelManagementSystem_DE180316_TruongAnhTuan_PRN212\\DataAccessObjects\\Migrations\\20241016033908_update_db_1.0.cs",
+              "RelativeDocumentMoniker": "DataAccessObjects\\Migrations\\20241016033908_update_db_1.0.cs",
+              "ToolTip": "D:\\materials-fpt-cn5\\PRN212\\Project\\HotelManagementSystem_DE180316_TruongAnhTuan_PRN212\\DataAccessObjects\\Migrations\\20241016033908_update_db_1.0.cs",
+              "RelativeToolTip": "DataAccessObjects\\Migrations\\20241016033908_update_db_1.0.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T03:39:08.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\materials-fpt-cn5\\PRN212\\Project\\HotelManagementSystem_DE180316_TruongAnhTuan_PRN212\\DataAccessObjects\\appsettings.json",
+              "RelativeDocumentMoniker": "DataAccessObjects\\appsettings.json",
+              "ToolTip": "D:\\materials-fpt-cn5\\PRN212\\Project\\HotelManagementSystem_DE180316_TruongAnhTuan_PRN212\\DataAccessObjects\\appsettings.json",
+              "RelativeToolTip": "DataAccessObjects\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-15T22:12:04.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "20241015224901_Initial.cs",
+              "DocumentMoniker": "D:\\materials-fpt-cn5\\PRN212\\Project\\HotelManagementSystem_DE180316_TruongAnhTuan_PRN212\\DataAccessObjects\\Migrations\\20241015224901_Initial.cs",
+              "RelativeDocumentMoniker": "DataAccessObjects\\Migrations\\20241015224901_Initial.cs",
+              "ToolTip": "D:\\materials-fpt-cn5\\PRN212\\Project\\HotelManagementSystem_DE180316_TruongAnhTuan_PRN212\\DataAccessObjects\\Migrations\\20241015224901_Initial.cs",
+              "RelativeToolTip": "DataAccessObjects\\Migrations\\20241015224901_Initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T22:49:01.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "WindowUpdateProfile.xaml",
+              "DocumentMoniker": "D:\\materials-fpt-cn5\\PRN212\\Project\\HotelManagementSystem_DE180316_TruongAnhTuan_PRN212\\HMSApp\\WindowUpdateProfile.xaml",
+              "RelativeDocumentMoniker": "HMSApp\\WindowUpdateProfile.xaml",
+              "ToolTip": "D:\\materials-fpt-cn5\\PRN212\\Project\\HotelManagementSystem_DE180316_TruongAnhTuan_PRN212\\HMSApp\\WindowUpdateProfile.xaml",
+              "RelativeToolTip": "HMSApp\\WindowUpdateProfile.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-13T20:04:59.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "WindowChangePassword.xaml",
+              "DocumentMoniker": "D:\\materials-fpt-cn5\\PRN212\\Project\\HotelManagementSystem_DE180316_TruongAnhTuan_PRN212\\HMSApp\\WindowChangePassword.xaml",
+              "RelativeDocumentMoniker": "HMSApp\\WindowChangePassword.xaml",
+              "ToolTip": "D:\\materials-fpt-cn5\\PRN212\\Project\\HotelManagementSystem_DE180316_TruongAnhTuan_PRN212\\HMSApp\\WindowChangePassword.xaml",
+              "RelativeToolTip": "HMSApp\\WindowChangePassword.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-13T20:05:21.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "WindowUpdateProfile.xaml.cs",
+              "DocumentMoniker": "D:\\materials-fpt-cn5\\PRN212\\Project\\HotelManagementSystem_DE180316_TruongAnhTuan_PRN212\\HMSApp\\WindowUpdateProfile.xaml.cs",
+              "RelativeDocumentMoniker": "HMSApp\\WindowUpdateProfile.xaml.cs",
+              "ToolTip": "D:\\materials-fpt-cn5\\PRN212\\Project\\HotelManagementSystem_DE180316_TruongAnhTuan_PRN212\\HMSApp\\WindowUpdateProfile.xaml.cs",
+              "RelativeToolTip": "HMSApp\\WindowUpdateProfile.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T20:05:45.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "WindowChangePassword.xaml.cs",
+              "DocumentMoniker": "D:\\materials-fpt-cn5\\PRN212\\Project\\HotelManagementSystem_DE180316_TruongAnhTuan_PRN212\\HMSApp\\WindowChangePassword.xaml.cs",
+              "RelativeDocumentMoniker": "HMSApp\\WindowChangePassword.xaml.cs",
+              "ToolTip": "D:\\materials-fpt-cn5\\PRN212\\Project\\HotelManagementSystem_DE180316_TruongAnhTuan_PRN212\\HMSApp\\WindowChangePassword.xaml.cs",
+              "RelativeToolTip": "HMSApp\\WindowChangePassword.xaml.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAIBJwBsAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T20:09:28.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "RoomTypeRepository.cs",
+              "DocumentMoniker": "D:\\materials-fpt-cn5\\PRN212\\Project\\HotelManagementSystem_DE180316_TruongAnhTuan_PRN212\\DataAccessObjects\\Repository\\RoomTypeRepository.cs",
+              "RelativeDocumentMoniker": "DataAccessObjects\\Repository\\RoomTypeRepository.cs",
+              "ToolTip": "D:\\materials-fpt-cn5\\PRN212\\Project\\HotelManagementSystem_DE180316_TruongAnhTuan_PRN212\\DataAccessObjects\\Repository\\RoomTypeRepository.cs",
+              "RelativeToolTip": "DataAccessObjects\\Repository\\RoomTypeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T15:49:00.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\materials-fpt-cn5\\PRN212\\Project\\HotelManagementSystem_DE180316_TruongAnhTuan_PRN212\\HMSApp\\App.xaml.cs",
+              "RelativeDocumentMoniker": "HMSApp\\App.xaml.cs",
+              "ToolTip": "D:\\materials-fpt-cn5\\PRN212\\Project\\HotelManagementSystem_DE180316_TruongAnhTuan_PRN212\\HMSApp\\App.xaml.cs",
+              "RelativeToolTip": "HMSApp\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T16:08:16.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "D:\\materials-fpt-cn5\\PRN212\\Project\\HotelManagementSystem_DE180316_TruongAnhTuan_PRN212\\HMSApp\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "HMSApp\\AssemblyInfo.cs",
+              "ToolTip": "D:\\materials-fpt-cn5\\PRN212\\Project\\HotelManagementSystem_DE180316_TruongAnhTuan_PRN212\\HMSApp\\AssemblyInfo.cs",
+              "RelativeToolTip": "HMSApp\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T16:20:39.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\materials-fpt-cn5\\PRN212\\Project\\HotelManagementSystem_DE180316_TruongAnhTuan_PRN212\\HMSApp\\App.xaml",
+              "RelativeDocumentMoniker": "HMSApp\\App.xaml",
+              "ToolTip": "D:\\materials-fpt-cn5\\PRN212\\Project\\HotelManagementSystem_DE180316_TruongAnhTuan_PRN212\\HMSApp\\App.xaml",
+              "RelativeToolTip": "HMSApp\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-13T16:20:42.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "BusinessObjects",
+              "DocumentMoniker": "D:\\materials-fpt-cn5\\PRN212\\Project\\HotelManagementSystem_DE180316_TruongAnhTuan_PRN212\\BusinessObjects\\BusinessObjects.csproj",
+              "RelativeDocumentMoniker": "BusinessObjects\\BusinessObjects.csproj",
+              "ToolTip": "D:\\materials-fpt-cn5\\PRN212\\Project\\HotelManagementSystem_DE180316_TruongAnhTuan_PRN212\\BusinessObjects\\BusinessObjects.csproj",
+              "RelativeToolTip": "BusinessObjects\\BusinessObjects.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-13T17:25:26.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "BusinessObjects.csproj",
+              "DocumentMoniker": "D:\\materials-fpt-cn5\\PRN212\\Project\\HotelManagementSystem_DE180316_TruongAnhTuan_PRN212\\BusinessObjects\\BusinessObjects.csproj",
+              "RelativeDocumentMoniker": "BusinessObjects\\BusinessObjects.csproj",
+              "ToolTip": "D:\\materials-fpt-cn5\\PRN212\\Project\\HotelManagementSystem_DE180316_TruongAnhTuan_PRN212\\BusinessObjects\\BusinessObjects.csproj",
+              "RelativeToolTip": "BusinessObjects\\BusinessObjects.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-13T13:41:32.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "HMSApp",
+              "DocumentMoniker": "D:\\materials-fpt-cn5\\PRN212\\Project\\HotelManagementSystem_DE180316_TruongAnhTuan_PRN212\\HMSApp\\HMSApp.csproj",
+              "RelativeDocumentMoniker": "HMSApp\\HMSApp.csproj",
+              "ToolTip": "D:\\materials-fpt-cn5\\PRN212\\Project\\HotelManagementSystem_DE180316_TruongAnhTuan_PRN212\\HMSApp\\HMSApp.csproj",
+              "RelativeToolTip": "HMSApp\\HMSApp.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-13T17:28:23.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "ResourcePart.cs",
+              "DocumentMoniker": "C:\\Users\\FPTSHOP\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs",
+              "ToolTip": "C:\\Users\\FPTSHOP\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAcwCkAAAADAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T17:29:04.84Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

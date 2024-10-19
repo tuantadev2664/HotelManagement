@@ -1,0 +1,118 @@
+﻿<Page x:Class="HMSApp.P_BookingReservation"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:HMSApp"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        TextElement.Foreground="{DynamicResource MaterialDesignBody}"
+        TextElement.FontWeight="Regular"
+        TextElement.FontSize="13"
+        TextOptions.TextFormattingMode="Ideal"
+        TextOptions.TextRenderingMode="Auto"
+        FontFamily="{DynamicResource MaterialDesignFont}"
+        Background="White"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="P_BookingReservation">
+
+    <Grid HorizontalAlignment="Stretch" VerticalAlignment="Stretch">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <TextBlock Style="{StaticResource MaterialDesignSubtitle1TextBlock}" Grid.ColumnSpan="2" Text="Booking Reservation
+                   " Grid.Row="0" Grid.Column="0" Margin="10" FontSize="20" FontWeight="Bold" HorizontalAlignment="Center"/>
+
+
+        <Grid Grid.Row="1" HorizontalAlignment="Center" Margin="10">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="125"/>
+                <ColumnDefinition Width="125"/>
+                <ColumnDefinition Width="125"/>
+                <ColumnDefinition Width="125"/>
+                <ColumnDefinition Width="125"/>
+            </Grid.ColumnDefinitions>
+
+            <DatePicker Grid.Column="0"
+            Margin="5,5,0,5"
+            materialDesign:HintAssist.Hint="Start Date"
+            materialDesign:TextFieldAssist.HasClearButton="True"
+            Style="{StaticResource MaterialDesignFloatingHintDatePicker}"
+            SelectedDateChanged="StartDatePicker_SelectedDateChanged" HorizontalAlignment="Left" Width="120"
+            />
+
+            <DatePicker Grid.Column="1"
+            Margin="5,5,0,5"
+            materialDesign:HintAssist.Hint="End Date"
+            materialDesign:TextFieldAssist.HasClearButton="True"
+            Style="{StaticResource MaterialDesignFloatingHintDatePicker}"
+            SelectedDateChanged="EndDatePicker_SelectedDateChanged"
+            />
+
+            <TextBox  Grid.Column="2"
+              Margin="5"
+              VerticalAlignment="Center"
+              materialDesign:HintAssist.Hint="Number of Pepole"
+              Style="{StaticResource MaterialDesignFloatingHintTextBox}" 
+              TextChanged="NumOfPeopleTextBox_TextChanged"
+              
+                      />
+
+            <ComboBox  Grid.Column="3"
+              Margin="5"
+              MinWidth="128"
+              materialDesign:ColorZoneAssist.Mode="SecondaryLight"
+              materialDesign:HintAssist.Hint="PricePerDate"
+              materialDesign:TextFieldAssist.HasClearButton="True"
+              materialDesign:TextFieldAssist.SuffixText="$"
+              materialDesign:TextFieldAssist.UnderlineBrush="{DynamicResource SecondaryHueMidBrush}"
+              Style="{StaticResource MaterialDesignFloatingHintComboBox}" 
+              SelectionChanged="PriceComboBox_SelectionChanged">
+                <ComboBoxItem
+                Content="0-100" />
+                <ComboBoxItem
+                Content="100-200" />
+                <ComboBoxItem
+                Content="200-300" />
+                <ComboBoxItem
+                Content="300-400" />
+            </ComboBox>
+
+            <Button Content="Search"  Margin="5" Grid.Column="4" Click="Btn_Search"/>
+        </Grid>
+
+        <StackPanel Grid.Row="2" Orientation="Horizontal" HorizontalAlignment="Center" Margin="10">
+            <Button Content="Booking" Click="btn_booking" Margin="5"/>
+        </StackPanel>
+
+        <DataGrid x:Name="dataGrid"
+          Grid.Row="3" Grid.ColumnSpan="2"
+          AutoGenerateColumns="False"
+          CanUserAddRows="False"
+          HeadersVisibility="All"
+          ItemsSource="{Binding RoomInformation}"
+          SelectionUnit="FullRow"
+          AlternatingRowBackground="LightGray"
+          IsReadOnly="True" 
+          Margin="10" SelectionChanged="dataGrid_SelectionChanged">
+            <DataGrid.Columns>
+                <DataGridTextColumn Binding="{Binding RoomID}" Header="Id" />
+                <DataGridTextColumn Binding="{Binding RoomNumber}" Header="Room Number" />
+                <DataGridTextColumn Binding="{Binding RoomDescription}" Header="Description" />
+                <DataGridTextColumn Binding="{Binding RoomMaxCapacity}"   Header="Max Capacity"/>
+                <DataGridTextColumn Binding="{Binding RoomPricePerDate}" Header="Prcie Per Date"/>
+                <DataGridTextColumn Binding="{Binding RoomStatus}" Header="RoomStatus" />
+                <DataGridTextColumn Binding="{Binding RoomType.RoomTypeName}" Header="Room Type" />
+            </DataGrid.Columns>
+        </DataGrid>
+
+    </Grid>
+</Page>
